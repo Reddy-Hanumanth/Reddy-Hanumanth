@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Hanumanth Reddy, a Python Full Stack Developer (in training) focused on building scalable and production-ready web applications.<br>🔭 I’m currently building full-stack projects using Python for backend and modern frontend technologies to create responsive, user-focused applications.<br>🌱 I’m deepening my knowledge in Django, APIs, and frontend–backend integration to develop scalable and production-ready systems.<br>💼 I’m open to collaborating on full-stack projects and actively seeking Full Stack / Python Developer opportunities where I can contribute and grow.
+👋 Hi, I'm Hanumanth Reddy, a Python Full Stack Developer (in training) focused on building scalable and production-ready web applications.<br><br>🔭 I’m currently building full-stack projects using Python for backend and modern frontend technologies to create responsive, user-focused applications.<br><br>🌱 I’m deepening my knowledge in Django, APIs, and frontend–backend integration to develop scalable and production-ready systems.<br><br>💼 I’m open to collaborating on full-stack projects and actively seeking Full Stack / Python Developer opportunities where I can contribute and grow.
 
 
 ## 🌐 Socials:
